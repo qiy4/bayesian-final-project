@@ -1,6 +1,5 @@
-# bayesian-final-project
-
 <!-- Title slide -->
+# Bayesian-Final-Project
 # 🚗 **BERT: Detecting Fraudulent Auto Insurance Claims**
 ### 🔍 Bayesian ML for Insurance Fraud Prevention
 ---
