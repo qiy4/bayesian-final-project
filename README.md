@@ -3,6 +3,7 @@
 ### 🔍 Bayesian ML for Insurance Fraud Prevention
 ---
 **Group Name:**  Optimus Prime
+
 **Group Members:**  
 - Charlotte Liao  
 - Chelsea Liu
