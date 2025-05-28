@@ -1,5 +1,5 @@
 <!-- Title slide -->
-# 🚗 **BERT: Detecting Fraudulent Auto Insurance Claims**
+# 🚗 **Detecting Fraudulent Auto Insurance Claims**
 ### 🔍 Bayesian ML for Insurance Fraud Prevention
 ---
 **Group Name:**  Optimus Prime
